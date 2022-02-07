@@ -3,12 +3,14 @@
 {
     "files.autoSave": "afterDelay",
     "window.zoomLevel": 1,
+    "explorer.compactFolders": false,
     "editor.formatOnSave": true,
     "editor.accessibilitySupport": "off",
     "editor.fontFamily": "MesloLGS NF, Menlo, Monaco, 'Courier New', monospace",
     "editor.wordWrap": "on",
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
+    "git.enabled": true,
     "terminal.integrated.env.osx": {
         "FIG_NEW_SESSION": "1"
     },
