@@ -48,10 +48,10 @@ https://github.com/romkatv/powerlevel10k/issues
 
 Install : 
 
--- iTerm2
+-- iTerm2 // https://iterm2.com/index.html
 -- Oh my zsh 
 -- Change font : MesloLGS NF 
--- install auto complete terminal FIG : https://github.com/withfig
+-- install auto complete terminal FIG : https://github.com/withfig // https://fig.io/
 -- Install color theme : https://github.com/QuentinWatt/dark-flat-iterm-colors
 -- Instal OMZH & Powerlevel9k / Powerlevel10k : https://gist.github.com/kevin-smets/8568070
 
