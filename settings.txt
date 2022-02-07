@@ -33,4 +33,30 @@ cmd sass --version : verif version.
   "license": "ISC"
 }
 
+
+//// Terminal Setting ////
+
+New config: ~/.p10k.zsh.
+Backup of ~/.zshrc: $TMPDIR/.zshrc.3SJHF0Cb9y.
+
+See ~/.zshrc changes:
+
+  diff $TMPDIR/.zshrc.3SJHF0Cb9y ~/.zshrc
+
+File feature requests and bug reports at
+https://github.com/romkatv/powerlevel10k/issues
+
+Install : 
+
+-- iTerm2
+-- Oh my zsh 
+-- Change font : MesloLGS NF 
+-- install auto complete terminal FIG : https://github.com/withfig
+-- Install color theme : https://github.com/QuentinWatt/dark-flat-iterm-colors
+-- Instal OMZH & Powerlevel9k / Powerlevel10k : https://gist.github.com/kevin-smets/8568070
+
+Youtube video : https://www.youtube.com/watch?v=D2PSsnqgBiw&t=549s&ab_channel=QuentinWattTutorials 
+
+
+
 /////// Delete after copy. ///////
