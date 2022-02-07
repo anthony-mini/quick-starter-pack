@@ -1,0 +1,36 @@
+//// Setting VScode --> setting.json ////
+
+{
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "editor.accessibilitySupport": "off",
+    "editor.fontFamily": "Meslo LG S for Powerline, Menlo, Monaco, 'Courier New', monospace",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+}
+
+//// Setting Sass --> package.json ////
+
+note: In terminal : If package.json doesn't install --> cmd : '' npm init '' after --> cmd : '' npm run sass ''. 
+
+cmd sass --version : verif version. 
+
+{
+  "name": "starter-pack",
+  "version": "1.0.0",
+  "description": "starter pack and settings",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./src/css/style.css" 
+    (( or "sass --watch ./sass/main.scss:./src/css/style.css -w --style compressed" for compressed stylesheet. ))
+  },
+  "author": "anthony mini",
+  "license": "ISC"
+}
+
+/////// Delete after copy. ///////

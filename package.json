@@ -1,0 +1,11 @@
+{
+  "name": "starter-pack",
+  "version": "1.0.0",
+  "description": "starter pack and settings",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./src/css/style.css"
+  },
+  "author": "anthony mini",
+  "license": "ISC"
+}

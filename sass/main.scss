@@ -1,0 +1,16 @@
+@import "./base/reset";
+@import "./base/base";
+
+@import "./utils/variables";
+@import "./utils/functions";
+@import "./utils/mixins";
+@import "./utils/extensions";
+
+@import "./components/buttons";
+
+@import "./layout/header";
+
+@import "./pages/homepage";
+@import "./pages/second-page";
+
+@import "./layout/footer";
